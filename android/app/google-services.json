@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940707610779",
+    "firebase_url": "https://resumeapp-2df2a.firebaseio.com",
+    "project_id": "resumeapp-2df2a",
+    "storage_bucket": "resumeapp-2df2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940707610779:android:aab7941c17a1c344e5863e",
+        "android_client_info": {
+          "package_name": "com.zkt.app.android.resumeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940707610779-6n5nobjhke2vpim0s441jvbvvg14cjjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zkt.app.android.resumeapp",
+            "certificate_hash": "8626cb65bf2205f906b63eb1a7edf4dc40faeffa"
+          }
+        },
+        {
+          "client_id": "940707610779-lkbaret46ie7434ms3khmk77d0lc0mg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-Uec1Stc1VE0GpneYf7ZZakxqybWbB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940707610779-lkbaret46ie7434ms3khmk77d0lc0mg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940707610779-l7eu3fcea4bma7lo1kftmi5sn3gmt09a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skt.ios.app.myresume.ResumeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

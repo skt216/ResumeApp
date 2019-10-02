@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResumeApp</string>
+    <string name="resume_summary">Resume Summary</string>
+    <string name="loading_profile">Loading my profile</string>
+</resources>
